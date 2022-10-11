@@ -1,0 +1,24 @@
+@import 'bootstrap/dist/css/bootstrap';
+
+.search-area{
+  padding-top: 5rem;
+}
+
+.no-right-padding{
+  padding-right: 0 !important;
+  margin-bottom: 1rem;
+}
+
+.results-block {
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.logout-button{
+  margin-right: 1rem;
+}
+
+.user-name{
+  margin-top: .5rem;
+  padding-right: 1rem;
+}
